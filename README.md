@@ -14,5 +14,3 @@ For å kjøre appen må du ha:
 - Kivy 2.0.0
 - KivyMD 0.104.1
 - Pillow 8.1.2
-
-Jeg har droppet appen og kodet er bygget veldig dårlig, selve appen går fortsatt an å kjøre men det er ikke så bra optimaliert.
